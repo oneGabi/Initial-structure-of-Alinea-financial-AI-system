@@ -1,0 +1,1 @@
+# Initial-structure-of-Alinea-financial-AI-system
